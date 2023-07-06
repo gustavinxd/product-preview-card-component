@@ -20,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/first-challenge-qrcodecomponent-DHL-12GHyV)
-- Live Site URL: [Live Site](https://qr-code-component-gustavinxd.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-media-screen-cBievGBa8V)
+- Live Site URL: [Live Site](https://product-preview-card-gustavinxd.netlify.app/)
 
 ## My process
 
